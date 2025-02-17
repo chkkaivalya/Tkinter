@@ -1,4 +1,4 @@
-                                                                                       #To-Do List App (Tkinter)
+ #To-Do List App (Tkinter)
 
 
 This is a simple To-Do List application built using Python's Tkinter. The app provides an easy way to add, remove, mark tasks as done, and clear all tasks in a graphical user interface.
